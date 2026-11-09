@@ -1,0 +1,4 @@
+interface:
+  display_name: "International Law Observer 检索"
+  short_description: "检索 International Law Observer 博客文章与正文"
+  default_prompt: "使用 $IntlLawObserverSearcher 检索 International Law Observer；报告作者、日期、题名和公开正文范围，并标注博客评论性质。"
