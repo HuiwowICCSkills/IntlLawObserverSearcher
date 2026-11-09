@@ -2,7 +2,7 @@
 
 独立检索 International Law Observer 公共 WordPress 站点。只访问 `internationallawobserver.eu`。
 
-仓库：<https://github.com/GDUFSICCSkills/IntlLawObserverSearcher>（私有）。
+仓库：<https://github.com/HuiwowICCSkills/IntlLawObserverSearcher>（私有）。
 
 ## 环境
 
@@ -11,7 +11,7 @@ Python 3.10+，依赖 `requests`、`beautifulsoup4`、`pypdf`；无需登录。
 ## 安装与自检
 
 ```powershell
-git clone https://github.com/GDUFSICCSkills/IntlLawObserverSearcher.git "$env:USERPROFILE\.codex\skills\IntlLawObserverSearcher"
+git clone https://github.com/HuiwowICCSkills/IntlLawObserverSearcher.git "$env:USERPROFILE\.codex\skills\IntlLawObserverSearcher"
 python -m pip install -r "$env:USERPROFILE\.codex\skills\IntlLawObserverSearcher\requirements.txt"
 & "$env:USERPROFILE\.codex\skills\IntlLawObserverSearcher\run.ps1" doctor
 ```
