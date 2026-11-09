@@ -2,7 +2,7 @@
 
 独立检索 International Law Observer 公共 WordPress 站点。只访问 `internationallawobserver.eu`。
 
-仓库：<https://github.com/HuiwowICCSkills/IntlLawObserverSearcher>（私有）。
+仓库：<https://github.com/HuiwowICCSkills/IntlLawObserverSearcher>（公开）。
 
 ## 环境
 
